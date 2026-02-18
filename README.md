@@ -9,7 +9,8 @@ Insights and recommendations are structured around the following analytical them
     - Evaluation of long term trends in Fatal Collision Rate (FCR).
     - An analysis of Average Injuries per Collision to assess whether crashes are becoming more severe over time.
 2) ### Time & Risk Patterns:
-    - Comparison of crash severity between daytime and nighttime collisions
+    - Comparison of crash severity between daytime and nighttime collisions.
+    - Identification of time of day and temporal patterns associated with elevated fatal collision rate.
 3) ### Road User Vulnerability:
     - An assessment of pedestrian, cyclist, and motorist injury and fatality exposure.
     - Identification of populations most disproportionately impacted by traffic crashes.
@@ -24,4 +25,10 @@ Targeted SQL queries regarding various business questions can be found: here
 # Data Structure
 <img width="369" height="602" alt="image" src="https://github.com/user-attachments/assets/64bc1c6f-591c-4058-b7ff-da9fa087197f" />
 
-Prior to the analysis, data quality checks were made, removing rows where the location was not present 
+# Data Cleaning
+Prior to analysis, comprehensive data quality checks and cleaning were performed:
+- Removed duplicate records by validating unique collision IDs and excluding rows with missing primary keys.
+- Validated borough values, flagging any records outside the five official NYC boroughs for correction.
+- Reconstructed missing location fields using available latitude and longitude values where possible.
+- Removed records lacking location, latitude, and longitude data, as they cannot be used for geographic analysis.
+- Standardized vehicle type naming conventions by identifying redundant labels using wildcard pattern matching (`LIKE`) and consolidating them into consistent categories.
