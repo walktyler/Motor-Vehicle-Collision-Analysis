@@ -20,7 +20,7 @@ Insights and recommendations are structured around the following analytical them
     - Analysis of collisions to identify high-risk boroughs and locations
 
 An interactive Power BI dashboard can be downloaded: here
-The SQL queries used to inspect and perform quality checks: here
+The SQL queries used to inspect and perform quality checks: [here](https://github.com/walktyler/Motor-Vehicle-Collision-Analysis/blob/main/mvc%20cleaning.sql)
 The SQL queries used to clean, organize and prepare data: here
 Targeted SQL queries regarding various business questions can be found: here
 
@@ -33,7 +33,7 @@ The Data Structure for Motor Vehicle Collisions is as shown in `Raw_Motor_Vehicl
 <img width="248" height="600" alt="image" src="https://github.com/user-attachments/assets/ea63fe59-36c1-42f4-9123-a96142481305" />
 
 
-The SQL queries utilized to inspect and perform quality checks can be found [here]()
+The SQL queries utilized to inspect and perform quality checks can be found [here](https://github.com/walktyler/Motor-Vehicle-Collision-Analysis/blob/main/mvc%20cleaning.sql)
 
 # Data Cleaning
 Prior to analysis, comprehensive data quality checks and cleaning were performed:
