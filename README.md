@@ -42,3 +42,6 @@ Prior to analysis, comprehensive data quality checks and cleaning were performed
 - Reconstructed missing location fields using available latitude and longitude values where possible.
 - Removed records lacking location, latitude, and longitude data, as they cannot be used for geographic analysis.
 - Standardized vehicle type naming conventions by identifying redundant labels using wildcard pattern matching (`LIKE`) and consolidating them into consistent categories.
+
+# Executive Summary
+### Overview of findings
