@@ -3,6 +3,14 @@ An analytical study of motor vehicle collisions in New York City aimed at unders
 
 [Data Source](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
 
+An interactive Power BI dashboard can be downloaded: [here]
+
+The SQL queries used to inspect and perform quality checks: [here](https://github.com/walktyler/Motor-Vehicle-Collision-Analysis/blob/main/mvc%20cleaning.sql)
+
+The SQL queries used to clean, organize and prepare data: [here](https://github.com/walktyler/Motor-Vehicle-Collision-Analysis/blob/main/mvc_fact_table.sql)
+
+Targeted SQL queries regarding various business questions can be found: [here]
+
 # Project Background
 The Motor Vehicle Collisions dataset contains detailed records of police-reported motor vehicle crashes in New York City, where each row represents a single collision event.
 
@@ -18,11 +26,6 @@ Insights and recommendations are structured around the following analytical them
     - Identification of populations most disproportionately impacted by traffic crashes.
 4) ### Geography & Equity:
     - Analysis of collisions to identify high-risk boroughs and locations
-
-An interactive Power BI dashboard can be downloaded: here
-The SQL queries used to inspect and perform quality checks: [here](https://github.com/walktyler/Motor-Vehicle-Collision-Analysis/blob/main/mvc%20cleaning.sql)
-The SQL queries used to clean, organize and prepare data: here
-Targeted SQL queries regarding various business questions can be found: here
 
 # Data Structure
 Data Source: [here](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
