@@ -40,8 +40,9 @@ Prior to analysis, comprehensive data quality checks and cleaning were performed
 - Removed duplicate records by validating unique collision IDs and excluding rows with missing primary keys.
 - Validated borough values, flagging any records outside the five official NYC boroughs for correction.
 - Reconstructed missing location fields using available latitude and longitude values where possible.
-- Removed records lacking location, latitude, and longitude data, as they cannot be used for geographic analysis.
+- Tagged records lacking location, latitude, and longitude data, as they cannot be used for geographic analysis.
 - Standardized vehicle type naming conventions by identifying redundant labels using wildcard pattern matching (`LIKE`) and consolidating them into consistent categories.
 
 # Executive Summary
-### Overview of findings
+### Overview of Findings
+Collisions peaked at 231,564 in 2018, after which a sustained downwards trend appeared. Total collisions declined by **8.7%** from 2018 to 2019, followed by a sharp 46.6% drop in 2020. Since 2020, collisions have continued to decrease at an average annual rate of approximately 5.4%, excluding incomplete 2026 data.
