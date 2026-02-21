@@ -48,4 +48,17 @@ Prior to analysis, comprehensive data quality checks and cleaning were performed
 
 # Executive Summary
 ### Overview of Findings
-Collisions peaked at 231,564 in 2018, after which a sustained downwards trend appeared. Total collisions declined by **8.7%** from 2018 to 2019, followed by a sharp 46.6% drop in 2020. Since 2020, collisions have continued to decrease at an average annual rate of approximately 5.4%, excluding incomplete 2026 data.
+Collisions peaked at **231,564** in 2018, after which a sustained downwards trend appeared. Total collisions declined by **8.7%** from 2018 to 2019, followed by a sharp **46.6%** drop in 2020. Since 2020, collisions have continued to decrease at an average annual rate of approximately **5.4%**, excluding incomplete 2026 data.
+
+place picture of dashboard here: Overview
+
+### Fatalities & Crash Severity:
+
+- Fatalities are volatile year over year, not consistently trending  in one direction. Following a spike between 2020-2021, fatalities have declined for three consecutive years with the most recent shrinkage being **15.77%**.
+- While the number of collisions has declined by nearly 63% since 2018, the fatal risk per crash has more than doubled in the years following the same period, indicating that collisions have become substantially more severe.
+
+place picture of dashboard here: Fatalities line chart
+
+### Time & Risk Patterns:
+- Although overall crash volume is higher during the daytime, the probability that a collision results in a fatality is significantly elevated at night (0.26% vs 0.10%), indicating substantially higher crash severity during nighttime hours.
+- While approximately 2.9 times more collisions occur on weekdays, crashes occurring on weekends are about 29% more likely to result in a fatality.
