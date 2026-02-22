@@ -62,3 +62,6 @@ place picture of dashboard here: Fatalities line chart
 ### Time & Risk Patterns:
 - Although overall crash volume is higher during the daytime, the probability that a collision results in a fatality is significantly elevated at night (0.26% vs 0.10%), indicating substantially higher crash severity during nighttime hours.
 - While approximately 2.9 times more collisions occur on weekdays, crashes occurring on weekends are about 29% more likely to result in a fatality.
+
+### Road User Vulnerability:
+-Collisions occurring in Manhattan are significantly more likely to involve cyclists compared to other boroughs, while pedestrian injury rates remain elevated across all dense boroughs, particularly the Bronx and Brooklyn. Conversely, motorist injury rates are substantially lower in Manhattan relative to outer boroughs, where collisions are more likely to result in motorist harm. This may reflect differences in traffic patterns and density.
