@@ -50,7 +50,8 @@ Prior to analysis, comprehensive data quality checks and cleaning were performed
 ### Overview of Findings
 Collisions peaked at **231,564** in 2018, after which a sustained downwards trend appeared. Total collisions declined by **8.7%** from 2018 to 2019, followed by a sharp **46.6%** drop in 2020. Since 2020, collisions have continued to decrease at an average annual rate of approximately **5.4%**, excluding incomplete 2026 data.
 
-place picture of dashboard here: Overview
+<img width="1941" height="1080" alt="image" src="https://github.com/user-attachments/assets/792bbead-4a42-44bb-88e7-887f370f4545" />
+
 
 ### Fatalities & Crash Severity:
 
@@ -64,4 +65,4 @@ place picture of dashboard here: Fatalities line chart
 - While approximately 2.9 times more collisions occur on weekdays, crashes occurring on weekends are about 29% more likely to result in a fatality.
 
 ### Road User Vulnerability:
--Collisions occurring in Manhattan are significantly more likely to involve cyclists compared to other boroughs, while pedestrian injury rates remain elevated across all dense boroughs, particularly the Bronx and Brooklyn. Conversely, motorist injury rates are substantially lower in Manhattan relative to outer boroughs, where collisions are more likely to result in motorist harm. This may reflect differences in traffic patterns and density.
+- Collisions occurring in Manhattan are significantly more likely to involve cyclists compared to other boroughs, while pedestrian injury rates remain elevated across all dense boroughs, particularly the Bronx and Brooklyn. Conversely, motorist injury rates are substantially lower in Manhattan relative to outer boroughs, where collisions are more likely to result in motorist harm. This may reflect differences in traffic patterns and density.
