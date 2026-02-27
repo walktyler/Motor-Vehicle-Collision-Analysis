@@ -62,3 +62,9 @@ Collisions peaked at **231,564** in 2018, after which a sustained downwards tren
 
 ### Road User Vulnerability:
 - Collisions occurring in Manhattan are significantly more likely to involve cyclists compared to other boroughs, while pedestrian injury rates remain elevated across all dense boroughs, particularly the Bronx and Brooklyn. Conversely, motorist injury rates are substantially lower in Manhattan relative to outer boroughs, where collisions are more likely to result in motorist harm. This may reflect differences in traffic patterns and density.
+
+# Recommendations
+
+- Deploy targeted seasonal enforcement during peak collision months (May–October).
+- Adjust traffic signal timing and congestion management during peak seasonal months.
+- Develop an ongoing collision monitoring system to track structural shifts and emerging trends.
