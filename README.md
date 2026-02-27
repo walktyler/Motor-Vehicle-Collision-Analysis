@@ -3,13 +3,11 @@ An analytical study of motor vehicle collisions in New York City aimed at unders
 
 [Data Source](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
 
-An interactive Power BI dashboard can be downloaded: [here]
-
 The SQL queries used to inspect and perform quality checks: [here](https://github.com/walktyler/Motor-Vehicle-Collision-Analysis/blob/main/mvc%20cleaning.sql)
 
 The SQL queries used to clean, organize and prepare data: [here](https://github.com/walktyler/Motor-Vehicle-Collision-Analysis/blob/main/mvc_fact_table.sql)
 
-Targeted SQL queries regarding various business questions can be found: [here]
+Targeted SQL queries regarding various business questions can be found: [here](https://github.com/walktyler/Motor-Vehicle-Collision-Analysis/blob/main/MVC_queries.sql)
 
 # Project Background
 The Motor Vehicle Collisions dataset contains detailed records of police-reported motor vehicle crashes in New York City, where each row represents a single collision event.
@@ -57,8 +55,6 @@ Collisions peaked at **231,564** in 2018, after which a sustained downwards tren
 
 - Fatalities are volatile year over year, not consistently trending  in one direction. Following a spike between 2020-2021, fatalities have declined for three consecutive years with the most recent shrinkage being **15.77%**.
 - While the number of collisions has declined by nearly 63% since 2018, the fatal risk per crash has more than doubled in the years following the same period, indicating that collisions have become substantially more severe.
-
-place picture of dashboard here: Fatalities line chart
 
 ### Time & Risk Patterns:
 - Although overall crash volume is higher during the daytime, the probability that a collision results in a fatality is significantly elevated at night (0.26% vs 0.10%), indicating substantially higher crash severity during nighttime hours.
