@@ -48,8 +48,7 @@ Prior to analysis, comprehensive data quality checks and cleaning were performed
 ### Overview of Findings
 Collisions peaked at **231,564** in 2018, after which a sustained downwards trend appeared. Total collisions declined by **8.7%** from 2018 to 2019, followed by a sharp **46.6%** drop in 2020. Since 2020, collisions have continued to decrease at an average annual rate of approximately **5.4%**, excluding incomplete 2026 data.
 
-<img width="1770" height="986" alt="Screenshot 2026-08-10 081649" src="https://github.com/user-attachments/assets/cbcc546a-181d-4856-83d0-780bef5c394c" />
-
+<img width="1769" height="993" alt="image" src="https://github.com/user-attachments/assets/efce2c61-fd06-4025-b22f-c09381a867da" />
 
 
 ### Fatalities & Crash Severity:
