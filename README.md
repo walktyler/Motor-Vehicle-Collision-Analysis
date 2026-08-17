@@ -54,7 +54,7 @@ Prior to analysis, comprehensive data quality checks and cleaning were performed
 
 ### Fatalities & Crash Severity:
 
-- Fatalities are volatile year over year, not consistently trending  in one direction. Following a spike between 2020-2021, fatalities have declined for three consecutive years with the most recent shrinkage being **15.77%**.
+- Fatalities are volatile year over year, not consistently trending in one direction. Following a spike in 2020, fatalities have increased for three consecutive years, however since 2024 fatalities have decreased with the most recent shrinkage being **9.99%** in 2025.
 - While the number of collisions has declined by nearly 63% since 2018, the fatal risk per crash has more than doubled in the years following the same period, indicating that collisions have become substantially more severe.
 
 ### Time & Risk Patterns:
